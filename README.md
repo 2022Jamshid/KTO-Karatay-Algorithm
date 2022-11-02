@@ -1,2 +1,2 @@
-# KTO-Karatay-Algorith
+# KTO-Karatay-Algorithm
 University Stuff
